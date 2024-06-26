@@ -1,0 +1,16 @@
+
+.form{
+    width: 100%;
+}
+
+.input-elm{
+    height: 100%;
+    border-top-left-radius: 20px;
+    border-style: ridge;
+    border-width: 2px;
+}
+
+.btn-elm{
+    height: 100%;
+    padding: 10px;
+}

@@ -1,0 +1,28 @@
+.each-todo{
+    background-color: rgb(217, 224, 224);
+    border-radius: 30px;
+    padding: 2px;
+    margin: 3px;
+}
+.each-todo:hover{
+    transform:scale(1.02)
+}
+
+.check-box-div{
+    border: 0px;
+    padding: 0px;
+}
+.text-content{
+    font-size: medium;
+    text-align: center;
+    align-items: center;
+    padding-top: 1%;
+}
+
+.linethrough{
+    text-decoration: line-through;
+}
+
+.delete:hover{
+    font-weight: bold;
+}
